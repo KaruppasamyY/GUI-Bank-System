@@ -1,0 +1,5 @@
+Adam, Smith, ['14', 'Wilcot Street', 'Bath', 'B5 5RT'], 1234, 5000.00, Regular savings account, 4, 0 
+David, White, ['60', 'Holborn Viaduct', 'London', 'EC1A 2FD'], 1235, 3200.00, Senior citizens savings account, 8, 0
+Alice, Churchil, ['5', 'Cardigan Street', 'Birmingham', 'B4 7BD'], 1236, 18000.00, Standard current account, 0, 2000
+Ali, Abdallah, ['44', 'Churchill Way West', 'Basingstoke', 'RG21 6YR'], 1237, 40.00, Student current account, 0, 1000
+Adam, Smith, ['14', 'Wilcot Street', 'Bath', 'B5 5RT'], 1238, 6000.00, Student current account, 0, 1000 
